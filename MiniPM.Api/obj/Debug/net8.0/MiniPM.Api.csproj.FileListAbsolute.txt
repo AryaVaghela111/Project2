@@ -165,3 +165,4 @@ C:\Users\Admin\Desktop\Project2\MiniPM.Api\obj\Debug\net8.0\refint\MiniPM.Api.dl
 C:\Users\Admin\Desktop\Project2\MiniPM.Api\obj\Debug\net8.0\MiniPM.Api.pdb
 C:\Users\Admin\Desktop\Project2\MiniPM.Api\obj\Debug\net8.0\MiniPM.Api.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Project2\MiniPM.Api\obj\Debug\net8.0\ref\MiniPM.Api.dll
+C:\Users\Admin\Desktop\Project2\MiniPM.Api\obj\Debug\net8.0\MiniPM.Api.sourcelink.json
